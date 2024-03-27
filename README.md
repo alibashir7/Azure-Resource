@@ -13,7 +13,7 @@ In this lab, I'll show you how to create your first resource group in Azure. In 
 <p align="center">
 Click on the following video and follow the instructions to set up your free azure account (https://youtu.be/-0mL7rA8nhM?si=14lvwNCtXV5hMkIg): <br/>
 
-<h2>Creating a Resource:</h2>
+<h2>Creating a resource group and VMs:</h2>
 
 <p align="center">
 First, we will go to https://portal.azure.com and log in. Once logged in, you will arrive at the following page: Click on resource groups or search for it in the search bar if it doesn't appear for you.: <br/>

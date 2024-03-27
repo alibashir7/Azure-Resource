@@ -44,6 +44,22 @@ Click on create on the top left corner and select virtual machine:  <br/>
 <img src="https://imgur.com/tjTt9N1.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+We will select the resource group we created for the resource group selection. Next, follow the same selections I made for the following instance details. If you select a certain region and don't see the same options as me, try changing your regions until you have the same configurations as me.:  <br/>
+<img src="https://imgur.com/rKF2xcb.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Create a username and password that are unique to your VM, and make sure to have them saved somewhere. We will need it later. Click on the box next to licensing on the bottom left:  <br/>
+<img src="https://imgur.com/53vcdrA.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Select Standard SSD:  <br/>
+<img src="https://imgur.com/Nlz1IH7.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+The virtual network and subnets ahould automatically be created for you by Azure as seen in the following image. Then we will click create + review:  <br/>
+<img src="https://imgur.com/XsogsFB.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
 </p>
 
 <!--

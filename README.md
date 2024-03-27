@@ -9,9 +9,9 @@ In this lab, I'll show you how to create your first resource group in Azure. In 
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b>
 
-<h2>Setting up Azure Tenant:</h2>
+<h2>Setting up Azure Account:</h2>
 <p align="center">
-Click on the following video and follow the instructions to set up your free azure tenant (https://youtu.be/-0mL7rA8nhM?si=14lvwNCtXV5hMkIg): <br/>
+Click on the following video and follow the instructions to set up your free azure account (https://youtu.be/-0mL7rA8nhM?si=14lvwNCtXV5hMkIg): <br/>
 
 <h2>Creating a Resource:</h2>
 

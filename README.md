@@ -1,7 +1,7 @@
 <h1>Azure Resource Group Tutorial</h1>
 
 <h2>Description</h2>
-In this lab, I'll show you how to set up your Azure account and create our first resource group. In our Azure resource groups, we will create a Windows 10 VM (virtual machine) and a Windows Server VM. Resorces, according to Microsoft, are instances of services that you can create, such as virtual machines, storage, and SQL databases. And resource groups are logical containers where you can deploy and manage Azure resources like web apps, databases, and storage accounts. (https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources)
+In this lab, I'll show you how to create your first resource group in Azure. In our Azure resource group, we will create a Windows 10 VM (virtual machine) and a Windows Server VM. Resorces, according to Microsoft, are instances of services that you can create, such as virtual machines, storage, and SQL databases. And resource groups are logical containers where you can deploy and manage Azure resources like web apps, databases, and storage accounts. (https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources)
 <br />
 
 <h2>Environments Used </h2>

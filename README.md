@@ -10,9 +10,13 @@ In this lab, I'll show you how to create your first resource group in Azure. In 
 - <b>Windows Server 2019</b>
 
 <h2>Setting up Azure Tenant:</h2>
+<p align="center">
+Click on the following video and follow the instructions to set up your free azure tenant (https://youtu.be/-0mL7rA8nhM?si=14lvwNCtXV5hMkIg): <br/>
+
+<h2>Creating a Resource:</h2>
 
 <p align="center">
-First go to google and type create free azure account: <br/>
+First we will go to (https://portal.azure.com) and log in. Once logged in you will arrive at the following page: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

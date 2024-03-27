@@ -9,10 +9,10 @@ In this lab, I'll show you how to set up your Azure account and create our first
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Setting up Azure Tenant:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+First go to google and type create free azure account: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

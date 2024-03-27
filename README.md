@@ -37,11 +37,11 @@ You should now see the resource group you created in the portal:  <br/>
 <br />
 <br />
 Next, we will go back to https://portal.azure.com and click on virtual machines. Once again, if you don't see it on your home page, search for it in the search bar.:  <br/>
-<img src="https://imgur.com/FDUe85J.png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/kv7Ngz3.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Click on create on the top left corner and select virtual machine:  <br/>
-<img src="https://imgur.com/mY8N1Da.png" height="80%" width="80%" alt=""/>
+<img src="[https://imgur.com/mY8N1Da](https://imgur.com/m5fxaVy).png" height="80%" width="80%" alt=""/>
 </p>
 
 <!--

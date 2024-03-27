@@ -21,27 +21,27 @@ First we will go to (https://portal.azure.com) and log in. Once logged in you wi
 <br />
 <br />
 Select create:  <br/>
-<img src="https://imgur.com/YY5zizz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YY5zizz.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next we will name our resource group then click review + create: <br/>
+<img src="https://imgur.com/Vc9a3UJ.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then we will click create:  <br/>
+<img src="https://imgur.com/aYjVYit.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You should now see the resource group you created in the portal:  <br/>
+<img src="https://imgur.com/14ct0wI.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next we will go back to (https://portal.azure.com) and click on virtual machines. Once agin if you don't see it in your home page search for it in the search bar:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt=""/>
 </p>
 
 <!--

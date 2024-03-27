@@ -41,7 +41,7 @@ Next, we will go back to https://portal.azure.com and click on virtual machines.
 <br />
 <br />
 Click on create on the top left corner and select virtual machine:  <br/>
-<img src="[https://imgur.com/mY8N1Da](https://imgur.com/m5fxaVy).png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/tjTt9N1.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 </p>

@@ -60,6 +60,18 @@ The virtual network and subnets ahould automatically be created for you by Azure
 <img src="https://imgur.com/XsogsFB.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+You will see validation passed then we will click create:  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Azure will start the deployment process of the virtual machine. Be patient as this process could take a while:  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Next, we will create a windows server 2019 VM. We will follow the same exact process with the only difference being we will select windows server 2019 for the Image instead of Windows 10 pro:  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
 </p>
 
 <!--

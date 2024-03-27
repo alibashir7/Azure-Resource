@@ -61,15 +61,37 @@ The virtual network and subnets ahould automatically be created for you by Azure
 <br />
 <br />
 You will see validation passed then we will click create:  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/Z47z7Bq.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Azure will start the deployment process of the virtual machine. Be patient as this process could take a while:  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/gtuhbEZ.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Next, we will create a windows server 2019 VM. We will follow the same exact process with the only difference being we will select windows server 2019 for the Image instead of Windows 10 pro:  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+Once the deployment process is done, go back to https://portal.azure.com and click on virtual machines, and you should see the Windows 10 VM there.:  <br/>
+<img src="https://imgur.com/kT1PcsC.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Next, we will create a Windows Server 2019 VM. We will follow the same exact process, with the only difference being that we will select Windows Server 2019 for the image instead of Windows 10 Pro:  <br/>
+<img src="https://imgur.com/c0YbMDr.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/9XDYpEA.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/VBpNQBS.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/nQmlJle.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/aMEv1EW.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/ckYc27H.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/37huEww.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 </p>

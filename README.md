@@ -16,12 +16,12 @@ Click on the following video and follow the instructions to set up your free azu
 <h2>Creating a Resource:</h2>
 
 <p align="center">
-First we will go to (https://portal.azure.com) and log in. Once logged in you will arrive at the following page: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First we will go to (https://portal.azure.com) and log in. Once logged in you will arrive at the following page. Click on resource groups or search for it in the search bar if it doesn't appear for you: <br/>
+<img src="https://imgur.com/Dads5U8.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select create:  <br/>
+<img src="https://imgur.com/YY5zizz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>

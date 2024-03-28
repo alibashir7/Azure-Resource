@@ -111,28 +111,24 @@ Once remote desktop connection is open you will be prompted to enter an IP addre
 <img src="https://imgur.com/aRGiRrr.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+Fiinally our Windows 10 VM will open in the remote desktop enterface and we will be able to use it just like a normal computer. For the sake of this tutorial we will shutdown the VM once we are in the Windows 10 home screen:  <br/>
+<img src="https://imgur.com/3pWzpNa.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/6hkvvpC.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/JQKb76y.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/OmEcWno.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+Once our VM is shutdown, we will now stop it in Azure so we don't incur more costs for having it running. Once it's fully stopped, you should see Stopped (Deallocated) next to both VMs. Make sure to give it a minute or two for Azure to shutdown the VMs fully. Refresh your page until you see that it has been stopped. If you don't see Stopped (Deallocated) next to the VMs, just try the same steps again of clicking the box next to each VM and clicking stop in the top right-hand corner:  <br/>
+<img src="https://imgur.com/CYA0qgU.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/EX7xfHo.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
   :  <br/>

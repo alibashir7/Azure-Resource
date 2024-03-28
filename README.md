@@ -131,15 +131,15 @@ Once our VM is shutdown, we will now stop it in Azure so we don't incur more cos
 <img src="https://imgur.com/EX7xfHo.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
+:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
+:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-  :  <br/>
+:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />

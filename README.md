@@ -94,6 +94,59 @@ Next, we will create a Windows Server 2019 VM. We will follow the same exact pro
 <img src="https://imgur.com/37huEww.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+We will go back to the virtual machine portal, and you should see both Windows 10 and Windows Server running. If it doesn't say running as the status, just be patient and refresh the screen after a minute or two. Next, will type in our Windows search bar remote desktop connection and open it:  <br/>
+<img src="https://imgur.com/Hfz6AA0.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/vPQWPzL.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Once remote desktop connection is open you will be prompted to enter an IP address. The public IP address of our virtual machines that is provided to us in the portal is what we will use. Then will be prompted to enter our credentials to access the VM so we will use the username and password we created when setting up the VM. Click more choices then click use a different account. Proceed to enter in your VM username and password then click ok. When the Windows security prompt is brought up just click yes:  <br/>
+<img src="https://imgur.com/8FHnEp4.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/6jImcjf.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/aRGiRrr.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+  :  <br/>
+<img src=".png" height="80%" width="80%" alt=""/>
+<br />
+<br />
 </p>
 
 <!--

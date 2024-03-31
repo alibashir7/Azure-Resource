@@ -101,7 +101,7 @@ We will go back to the virtual machine portal, and you should see both Windows 1
 <img src="https://imgur.com/vPQWPzL.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Once remote desktop connection is open you will be prompted to enter an IP address. The public IP address of our virtual machines that is provided to us in the portal is what we will use. Then will be prompted to enter our credentials to access the VM so we will use the username and password we created when setting up the VM. Click more choices then click use a different account. Proceed to enter in your VM username and password then click ok. When the Windows security prompt is brought up just click yes:  <br/>
+Once a remote desktop connection is open, you will be prompted to enter an IP address. The public IP address of our virtual machines that is provided to us in the portal is what we will use. Then we will be prompted to enter our credentials to access the VM, so we will use the username and password we created when setting up the VM. Click more choices, then click Use a different account. Proceed to enter your VM username and password, then click OK. When the Windows security prompt is brought up, just click yes.:  <br/>
 <img src="https://imgur.com/8FHnEp4.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -111,7 +111,7 @@ Once remote desktop connection is open you will be prompted to enter an IP addre
 <img src="https://imgur.com/aRGiRrr.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Fiinally our Windows 10 VM will open in the remote desktop enterface and we will be able to use it just like a normal computer. For the sake of this tutorial we will shutdown the VM once we are in the Windows 10 home screen:  <br/>
+Finally, our Windows 10 VM will open in the remote desktop interface, and we will be able to use it just like a normal computer. For the sake of this tutorial, we will shutdown the VM once we are logged into the Windows 10 home screen.:  <br/>
 <img src="https://imgur.com/3pWzpNa.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -131,7 +131,7 @@ Once our VM is shutdown, we will now stop it in Azure so we don't incur more cos
 <img src="https://imgur.com/EX7xfHo.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-:  <br/>
+In order to save on storage costs, we will now delete our resource groups, which in turn will delete all our VMs and anything associated with them. This is a good practice to get used to once you are done using your VMs in Azure:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -139,7 +139,7 @@ Once our VM is shutdown, we will now stop it in Azure so we don't incur more cos
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-:  <br/>
+That is it for this lab. Now you should know how to create VMs and resource groups in Azure. I recommend trying everything done in this lab by yourself multiple times until it makes sense or you have a solid understanding of how it is done:  <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />

@@ -142,24 +142,25 @@ In order to save on storage costs, we will now delete our resource groups, which
 <br />
 <br />
 Go back to the resource group section, select NetworkWatcherRG, and follow the same steps to delete it. When everything is deleted, we can go back to the resource group and VM interface, and we will see that everything has been removed. <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/PqpxoD2.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/Zjxvx9j.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/f7gAeEi.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/2Rla8XF.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/nkRJtZK.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <h2>Conclusion </h2>
 That concludes this lab. Now you should know how to create VMs and resource groups in Azure. I recommend trying everything done in this lab by yourself multiple times until it makes sense or you have a solid understanding of how it is done.  <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
 <br />
-<br />
-Thank You: <br/>
+Thank You! <br/>
 </p>
 
 <!--

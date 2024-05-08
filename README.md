@@ -17,39 +17,39 @@ Click on the following video and follow the instructions to set up your free azu
 
 <p align="center">
 First, we will go to https://portal.azure.com and log in. Once logged in, you will arrive at the following page: Click on resource groups or search for it in the search bar if it doesn't appear for you. <br/>
-<img src="https://imgur.com/Dads5U8.png" height="80%" width="80%" alt=/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/0d4eb025-30df-4465-b0be-795ce82c38c9.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Select create:  <br/>
-<img src="https://imgur.com/YY5zizz.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/7e87f578-4241-4315-bde7-602738173d8e.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Next, we will name our resource group, then click review + create. <br/>
-<img src="https://imgur.com/Vc9a3UJ.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/f2007c28-90a5-46ef-9d15-e12d397b6251.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Then we will click create:  <br/>
-<img src="https://imgur.com/aYjVYit.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/146aaf9e-cff3-42c0-8b61-9c5c3257d934.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 You should now see the resource group you created in the portal.  <br/>
-<img src="https://imgur.com/14ct0wI.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/6f7a204c-b5e0-4f38-a7b1-21523f0a29cb.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Next, we will go back to https://portal.azure.com and click on virtual machines. Once again, if you don't see it on your home page, search for it in the search bar.  <br/>
-<img src="https://imgur.com/kv7Ngz3.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/aae1cf24-8e3c-4c41-b055-7fe98746ff87.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Click on create on the top left corner and select virtual machine.  <br/>
-<img src="https://imgur.com/tjTt9N1.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/a7670d5b-3542-484f-9263-5464aafb8e51.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 We will select the resource group we created for the resource group selection. Next, follow the same selections I made for the following instance details. If you select a certain region and don't see the same options as me, try changing your regions until you have the same configurations as me.  <br/>
-<img src="https://imgur.com/rKF2xcb.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/d2795ad1-cb0b-402f-aab6-f3410a18e4fd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Create a username and password that are unique to your VM, and make sure to have them saved somewhere. We will need it later. Click on the box next to licensing on the bottom left.  <br/>
-<img src="https://imgur.com/53vcdrA.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/26a0ead3-e018-4a79-89a1-413fd5745b2c.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Select Standard SSD:  <br/>

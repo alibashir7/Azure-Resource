@@ -44,7 +44,7 @@ Click on create on the top left corner and select virtual machine.  <br/>
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/a7670d5b-3542-484f-9263-5464aafb8e51.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-We will select the resource group we created for the resource group selection. Next, follow the same selections I made for the following instance details. If you select a certain region and don't see the same options as me, try changing your regions until you have the same configurations as me.  <br/>
+We will select the resource group we created from earlier. Next, follow the same selections I made for the following instance details. If you select a certain region and don't see the same options as me, try changing your regions until you have the same configurations as me.  <br/>
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/d2795ad1-cb0b-402f-aab6-f3410a18e4fd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -72,7 +72,7 @@ Once the deployment process is done, go back to https://portal.azure.com and cli
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/c85795d3-9c6e-402a-aa78-81d8afa7344a.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Next, we will create a Windows Server 2019 VM. We will follow the same exact process, with the only difference being that we will select Windows Server 2019 for the image instead of Windows 10 Pro.  <br/>
+Next, we will create a Windows Server 2019 VM. We will follow the same exact process, with the only difference being that we will select Windows Server 2019 for the image instead of Windows 10 Pro, and we will make sure to select the same resource group VMs.  <br/>
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/d5a23eee-631a-43fb-aa6d-36ba03a012a2.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -94,7 +94,7 @@ Next, we will create a Windows Server 2019 VM. We will follow the same exact pro
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/5b036481-b7d4-4230-b4ff-fc213b5dbb27.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-We will go back to the virtual machine portal, and you should see both Windows 10 and Windows Server running. If it doesn't say running as the status, just be patient and refresh the screen after a minute or two. Next, will type in our Windows search bar remote desktop connection and open it.  <br/>
+Let's go back to the virtual machine portal, and you should see both Windows 10 and Windows Server running. If it doesn't say running as the status, just be patient and refresh the screen after a minute or two. Next, will type in our Windows search bar remote desktop connection and open it.  <br/>
 <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/f0128737-42f7-4de6-9c07-050ce4723538.png" height="80%" width="80%" alt=""/>
 <br />
 <br />

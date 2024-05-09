@@ -53,27 +53,27 @@ Create a username and password that are unique to your VM, and make sure to have
 <br />
 <br />
 Select Standard SSD:  <br/>
-<img src="https://imgur.com/Nlz1IH7.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/722b2de1-664d-41e1-a789-9fea87996ff6.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 The virtual network and subnets ahould automatically be created for you by Azure as seen in the following image. Then we will click create + review.  <br/>
-<img src="https://imgur.com/XsogsFB.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/bb4ece64-310a-4c45-94f1-19abd801b6fe.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 You will see validation passed then we will click create:  <br/>
-<img src="https://imgur.com/Z47z7Bq.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/16c633b0-1c52-4537-9c8c-a43990ee5b9d.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Azure will start the deployment process of the virtual machine. Be patient as this process could take a while.  <br/>
-<img src="https://imgur.com/gtuhbEZ.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/fa31e9b7-1186-4641-8721-b90c47bee129.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Once the deployment process is done, go back to https://portal.azure.com and click on virtual machines, and you should see the Windows 10 VM there.  <br/>
-<img src="https://imgur.com/kT1PcsC.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/556d768b-8f78-49e0-89a7-b239c657822e.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Next, we will create a Windows Server 2019 VM. We will follow the same exact process, with the only difference being that we will select Windows Server 2019 for the image instead of Windows 10 Pro.  <br/>
-<img src="https://imgur.com/c0YbMDr.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/75f7ef79-52d4-4694-bc3e-611db7f922c1.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <img src="https://imgur.com/9XDYpEA.png" height="80%" width="80%" alt=""/>

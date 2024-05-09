@@ -132,29 +132,32 @@ Once our VM is shutdown, we will now stop it in Azure so we don't incur more cos
 <br />
 <br />
 In order to save on storage costs, we will now delete our resource groups, which in turn will delete all our VMs and anything associated with them. This is a good practice to get used to once you are done using your VMs in Azure. First, we will go back to the portal home page and click on the resource group icon. Next, we will select the virtual machine resource group. Then select delete resource group and confirm the resource group deletion by typing in the name of the resource group and selecting delete.  <br/>
-<img src="https://imgur.com/Xg0uWsl.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/c6ff6db8-0a7d-4b20-a12b-a3296d390b31.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/dVikawK.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/d8088f76-7780-4002-83e3-274f750ecceb.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/CnAtLid.png" height="80%" width="80%" alt=""/>
+<img src="(https://github.com/alibashir7/Azure-Resource/assets/165006117/c5463edf-cecf-4ad0-8085-22c20b5137a1.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+ <img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/9cc2a61f-cc3b-40ef-b463-ba6a0dd31fa9.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Go back to the resource group section, select NetworkWatcherRG, and follow the same steps to delete it. When everything is deleted, we can go back to the resource group and VM interface, and we will see that everything has been removed. <br/>
-<img src="https://imgur.com/PqpxoD2.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/d76ea68b-8b69-4ccd-82b7-800e231faa3f.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/Zjxvx9j.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/ac095a19-a73f-4f9b-b1b1-ee542062a147.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/f7gAeEi.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/a233aef9-5e41-4d67-874d-fe3ccf44d38b.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/2Rla8XF.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/57311e54-3ace-49af-bd00-7153ce192fad.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/nkRJtZK.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/3e3f61bd-e0eb-40ba-970a-8e6243896534.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <h2>Conclusion </h2>

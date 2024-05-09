@@ -53,23 +53,23 @@ Create a username and password that are unique to your VM, and make sure to have
 <br />
 <br />
 Select Standard SSD:  <br/>
-<img src="https://imgur.com/Nlz1IH7.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/71cadc54-6d1a-48c1-9672-2e45f370a033.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 The virtual network and subnets ahould automatically be created for you by Azure as seen in the following image. Then we will click create + review.  <br/>
-<img src="https://imgur.com/XsogsFB.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/0eda6aba-0452-41dc-9fb8-fb6aa80b6075.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 You will see validation passed then we will click create:  <br/>
-<img src="https://imgur.com/Z47z7Bq.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/018b6db5-8a63-4c16-970f-a7197061a1b3.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Azure will start the deployment process of the virtual machine. Be patient as this process could take a while.  <br/>
-<img src="https://imgur.com/gtuhbEZ.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/ddc880aa-672d-4b57-863c-58e4b7183352.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Once the deployment process is done, go back to https://portal.azure.com and click on virtual machines, and you should see the Windows 10 VM there.  <br/>
-<img src="https://imgur.com/kT1PcsC.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/c85795d3-9c6e-402a-aa78-81d8afa7344a.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Next, we will create a Windows Server 2019 VM. We will follow the same exact process, with the only difference being that we will select Windows Server 2019 for the image instead of Windows 10 Pro.  <br/>

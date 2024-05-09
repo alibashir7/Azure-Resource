@@ -95,40 +95,40 @@ Next, we will create a Windows Server 2019 VM. We will follow the same exact pro
 <br />
 <br />
 We will go back to the virtual machine portal, and you should see both Windows 10 and Windows Server running. If it doesn't say running as the status, just be patient and refresh the screen after a minute or two. Next, will type in our Windows search bar remote desktop connection and open it.  <br/>
-<img src="https://imgur.com/Hfz6AA0.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/f0128737-42f7-4de6-9c07-050ce4723538.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/vPQWPzL.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/ce3352d5-e4a2-47c1-b533-831c49201c84.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Once a remote desktop connection is open, you will be prompted to enter an IP address. The public IP address of our virtual machines that is provided to us in the portal is what we will use. Then we will be prompted to enter our credentials to access the VM, so we will use the username and password we created when setting up the VM. Click more choices, then click Use a different account. Proceed to enter your VM username and password, then click OK. When the Windows security prompt is brought up, just click yes.  <br/>
-<img src="https://imgur.com/8FHnEp4.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/9215a01a-03d2-411b-acf3-99c5bfc3fd65.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/6jImcjf.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/88c93ace-40a9-4fe8-b222-d937e29952cf.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/aRGiRrr.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/94b3ae54-b816-4c20-b52a-5a170dff469c.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Finally, our Windows 10 VM will open in the remote desktop interface, and we will be able to use it just like a normal computer. For the sake of this tutorial, we will shutdown the VM once we are logged into the Windows 10 home screen.  <br/>
-<img src="https://imgur.com/3pWzpNa.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/9255ce92-f765-49f1-a5ea-1e21bc13dc90.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/6hkvvpC.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/5115f919-fd73-45d0-96e2-d4f9bd8c1f41.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/JQKb76y.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/49c21621-889e-4f0f-b978-9479ac36c361.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/OmEcWno.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/96aed981-5b0e-402d-a8d1-ea0e5e0a2c15.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Once our VM is shutdown, we will now stop it in Azure so we don't incur more costs for having it running. Once it's fully stopped, you should see Stopped (Deallocated) next to both VMs. Make sure to give it a minute or two for Azure to shutdown the VMs fully. Refresh your page until you see that it has been stopped. If you don't see Stopped (Deallocated) next to the VMs, just try the same steps again of clicking the box next to each VM and clicking stop in the top right-hand corner.  <br/>
-<img src="https://imgur.com/CYA0qgU.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/5175d58c-4a9d-4903-916f-ee1542f9a082.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/EX7xfHo.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/Azure-Resource/assets/165006117/da28c440-595b-4fd4-a4d6-c9a35b8db994.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 In order to save on storage costs, we will now delete our resource groups, which in turn will delete all our VMs and anything associated with them. This is a good practice to get used to once you are done using your VMs in Azure. First, we will go back to the portal home page and click on the resource group icon. Next, we will select the virtual machine resource group. Then select delete resource group and confirm the resource group deletion by typing in the name of the resource group and selecting delete.  <br/>
